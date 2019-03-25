@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/NetRep/Intermediate/
+/NetRep/Saved/
+/NetRep/Binaries/
+/NetRep/.vs/
